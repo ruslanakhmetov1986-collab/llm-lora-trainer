@@ -1,0 +1,11 @@
+# Версии совпадают с tools/lora/runpod/requirements.txt (проверены задачей 8).
+transformers==5.20.1
+peft==0.19.1
+accelerate==1.13.0
+safetensors==0.7.0
+datasets
+huggingface_hub[hf_transfer]
+sentencepiece
+protobuf
+bitsandbytes
+matplotlib
